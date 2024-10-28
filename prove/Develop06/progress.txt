@@ -1,0 +1,6 @@
+110
+SimpleGoal|Complete a Book|Finish reading a book for self-improvement.|100|True
+EternalGoal|Daily Meditation|Spend time meditating every day.|10|False
+EternalGoal|Exercise|Exercise daily to maintain health.|20|False
+ChecklistGoal|Weekly Volunteering|Volunteer at the local shelter weekly|15|False
+ChecklistGoal|Workout Routine|Exercise regularly|20|False
